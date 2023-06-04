@@ -2105,10 +2105,11 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
+		font-color: #282152
 		letter-spacing: 0.125em;
 		text-align: center;
-		text-decoration: none;
-		text-transform: uppercase;
+		text-decoration:none ;
+		text-transform: ;
 		white-space: nowrap;
 		font-size: 0.75rem;
 		max-width: 20rem;
